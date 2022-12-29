@@ -1,7 +1,33 @@
-# TAREA5_CAP9-10
+                                                                     INFORME TAREA 5
+                                                                    
+Estudiante: Danny Guallpa
+
+Carrera: Mecatrónica
+
+NRC: 10063
+
+Docente: Darwin Omar Alulema Flores
 
 
-![image](https://user-images.githubusercontent.com/84783341/177798437-5104a150-2063-45d6-856b-6f8810afbd58.png)
+# OBJETIVO GENERAL
+
+Estudiar conceptos relacionados al los Teoremas y metodos fundamentales acorte a la resolucion de problemas en circuitos junto a sus derivadas a través del análisis y sus definiciones, de temas nuevos, para ello se realizará redacciones que nos permitan percibir y aclarar conocimientos y realizar ejercicios mediante la información analizada.
+
+# OBJETIVOS ESPECÍFICOS
+
+- Utilizar el método de la corriente en ramas, análisis de lazos y análisis de nodos para determinar cantidades desconocidas en un circuito.
+
+- Reconocer las diferentes formas de resolución de ejercicios de circuitos eléctricos y elegir el que sea más conveniente para nuestro uso.
+
+- Apreder que es el magnetismo y el eléctromagnetismo, y como este se relaciona con los circuitos eléctricos, además de apreder en que ambitos podemos emplearlos.
+
+# MARCO TEÓRICO
+
+
+
+# EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
+## CAPITULO 9
 
 SECCIÓN 9–1 Ecuaciones simultáneas en el análisis de circuitos
 
@@ -104,7 +130,7 @@ SECCIÓN 9–1 Ecuaciones simultáneas en el análisis de circuitos
 ![image](https://user-images.githubusercontent.com/117873786/207876784-6f084569-db18-48f1-8248-868237071494.png)
 
 
-Capítulo 10
+## CAPITULO 10
 
 SECCIÓN 10–1 El campo magnético
 
@@ -177,5 +203,22 @@ SECCIÓN 10–6 Aplicaciones de la inducción electromagnética
 24. Un generador de cd básico de una espira gira a 60 rev/s. ¿Cuántas veces cada segundo llega el voltaje
 de cd de salida a su pico (alcanza un máximo)?
 
-![image](https://user-images.githubusercontent.com/84783341/177808538-68416f55-c640-4af0-aa02-8d82233dd560.png)
+![image](https://user-images.githubusercontent.com/117873786/210019454-14882c5f-ca36-4b2e-900e-f828b056f2f6.png)
 
+
+# VIDEO
+
+# CONCLUSIONES
+
+- El método de análisis de mallas y nodos nos permiten ver de manera más sencilla el comportamiento de la corritne y voltaje dentro de un circuito siempre y cuando las ecuaciones esten bien planteadas.
+
+- En conclusión, el magnetismo fenómeno físico a el que ejerce fuerzas de atracción ante algunos objetos, el níquel, el cobalto el hierro y las aleaciones se les llama imanes. Que lo cual todo influye en el magnetismo por que es llama el campo magnético.
+
+- También el magnetismo terrestre muy importante este tema que claro que es Líneas que señalan cada punto de la tierra en una sola dirección: Norte-Sur magnéticas, conocida como meridiana.
+
+- Se pudo obtener infromación sobre métodos de análisis de circuitos que particularmente son útiles en el análisis de circuitos de múltiples lazos que tienen dos o más fuentes de voltaje o de corriente.
+
+- Se establecio un nuevo conocimiento acerca del electromagnetismo tanto sus utilizades elementos y caracteristicas que con lleva, ademas de ello se pudo establecer nuevos conceptos y dominios del tema.
+
+# BIBLIOGRAFÍA
+Floyd, T. L. (2007). Principios de Circuitos Electricos. Mexico: Pearson Educacion. http://media.espora.org/mgoblin_media/media_entries/1455/Principios_de_circuitos_electricos.pdf
