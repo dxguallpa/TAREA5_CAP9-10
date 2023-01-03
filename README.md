@@ -1,4 +1,4 @@
-       INFORME TAREA 5
+                                                                    INFORME TAREA 5
                                                                     
 Estudiante: Danny Guallpa
 
