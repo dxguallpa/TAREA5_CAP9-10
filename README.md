@@ -216,6 +216,8 @@ de cd de salida a su pico (alcanza un máximo)?
 
 # VIDEO
 
+https://uespe-my.sharepoint.com/:v:/g/personal/dxguallpa_espe_edu_ec/EUrIr9Yp8iROqkJit1vt6jEBMlGXBhTXZVWCNfFRHIoX2g?e=NspZU4
+
 # CONCLUSIONES
 
 - El método de análisis de mallas y nodos nos permiten ver de manera más sencilla el comportamiento de la corritne y voltaje dentro de un circuito siempre y cuando las ecuaciones esten bien planteadas.
